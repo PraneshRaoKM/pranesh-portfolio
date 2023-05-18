@@ -1,0 +1,20 @@
+{
+  "navLinks": [
+    {
+      "title": "About",
+      "id": "about"
+    },
+    {
+      "title": "Qualification",
+      "id": "qualification"
+    },
+    {
+      "title": "Work Experience",
+      "id": "experience"
+    },
+    {
+      "title": "Contact",
+      "id": "contact"
+    }
+  ]
+}

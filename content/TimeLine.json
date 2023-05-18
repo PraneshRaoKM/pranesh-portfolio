@@ -1,0 +1,49 @@
+{
+  "title": "What I have done so far...",
+  "subtitle": "My Career TimeLine",
+  "lineColour": "[#ffffff]",
+  "content": [
+    {
+      "title": "Research Scholar",
+      "company_name": "National Institute of Technology, Karnataka",
+      "icon": "/assets/timeline-icons/NITK.png",
+      "date": "2014 - 2019",
+      "points": [
+        "Published 12+ Research papers, a book chapter, attended 4 international conferences.",
+        "Availed DST-SERB fund by the GOI to attend an international conference.",
+        "MATLAB programming, Inverse heat transfer, FEM based steel phase transformation, artificial neural network are some of the important skill sets acquired and applied during research."
+      ]
+    },
+    {
+      "title": "Research Engineer",
+      "company_name": "Rapsri Engineering Products Company Ltd., Harohalli",
+      "icon": "/assets/timeline-icons/Rapsri.png",
+      "date": "2019 - 2020",
+      "points": [
+        "Leading various R&D activities in the industry and collaborating with external organizations for carrying out research projects.",
+        "Casting Rejection control by process control and changing casting design.",
+        "Value engineering and redesign customer products with an objective of easing manufacturing process."
+      ]
+    },
+    {
+      "title": "Senior Engineer",
+      "company_name": "ALTEN India, Bangaluru",
+      "icon": "/assets/timeline-icons/Alten.png",
+      "date": "2020 - 2023",
+      "points": [
+        "Creating and analysing material cards and Spot weld cards.",
+        "Analyse the material property needs asked by the Stellantis N.V.(client) design and innovation engineers and providing technical expertise/feedback.",
+        "Carry out or steer the establishment of laws of behaviour from the test results",
+        "Leading the team for interaction with the client for all the technical aspects, internal service documentation and training support documentation.",
+        "Achievement: Successfully reduced lead time for the tasks by 50% by developing interactive automation tools using Excel-VBA, Ansa-Python and Metapost-Python Routines."
+      ]
+    },
+    {
+      "title": "R&D Engineer",
+      "company_name": "Renault India Private Limited, Chennai",
+      "icon": "/assets/timeline-icons/Renault.png",
+      "date": "2023 - Present",
+      "points": ["N/A"]
+    }
+  ]
+}
