@@ -26,11 +26,6 @@ const Hero = () => {
           {currentJob}.
         </p>
       </div>
-      <img
-        src="/assets/pranesh-hero.png"
-        alt="Dr. Pranesh Photo"
-        className="absolute bottom-0 right-0 md:pr-5 pb-0 lg:h-[98vh] h-[40vh]"
-      ></img>
       <div className="absolute bottom-5  w-full flex justify-center items-center rotate-180 text-7xl text-[#c4c2c2] ">
         <a href="#about" className={`animate-bounce`}>
           &#94;
