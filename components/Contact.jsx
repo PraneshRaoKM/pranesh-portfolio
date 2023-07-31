@@ -33,10 +33,12 @@ const Contact = () => {
         <br className="sm:block hidden" />
         via LinkedIn:{" "}
         <a
-          href={`https://${content.email}`}
+          href={`https://${content.linkedin}`}
           no-referrer
           target="_blank"
-          className={"text-white hover:text-crimson hover:cursor-pointer text-clip"}
+          className={
+            "text-white hover:text-crimson hover:cursor-pointer text-clip"
+          }
         >
           {content.linkedin}
         </a>
