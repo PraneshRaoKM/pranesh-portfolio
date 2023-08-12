@@ -41,9 +41,15 @@
     {
       "title": "Assistant Manager",
       "company_name": "Renault Nissan Technology and Business Center Pvt. Ltd., Chennai",
-      "icon": "/assets/timeline-icons/Renault.png",
+      "icon": "/assets/timeline-icons/RNTBCI.png",
       "date": "2023 - Present",
-      "points": ["N/A"]
+      "points": [
+        "Part of Research and Advanced engineering team for Nissan cars.",
+        "Presently working on projects for enhancing occupant and padestrian safety.",
+        "The objective of the project is to provide design guidelines in the context of impending vehicular safety regulations/ rating criteria.",
+        "Work involves accident data analysis and simulation studies to arrive at design guidelines",
+        "The major area of simulation study is focused on vehicle crash and biomechanical simulation."
+      ]
     }
   ]
 }
