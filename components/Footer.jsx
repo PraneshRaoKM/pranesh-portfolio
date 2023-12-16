@@ -17,7 +17,7 @@ const Footer = () => {
         <div>
           Made by{" "}
           <a
-            href={`https://${content.coder.github}`}
+            href={`https://${content.coder.githubURL}`}
             no-referrer
             target="_blank"
             className={"text-white hover:text-crimson hover:cursor-pointer"}
